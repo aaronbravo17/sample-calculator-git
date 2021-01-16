@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametersTest" time="0.009" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametersTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -63,7 +63,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.009"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.003"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[1]" time="0"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[2]" time="0"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[3]" time="0"/>
